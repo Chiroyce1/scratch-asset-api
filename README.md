@@ -3,8 +3,7 @@
 ### A recreation of Scratch's assets server, thats it.
 
 ## Running
-### Replit
-> https://replit.com/github/Chiroyce1/scratch-asset-api
+[![Run on Repl.it](https://repl.it/badge/github/Chiroyce1/scratch-asset-server)](https://repl.it/github/Chiroyce1/scratch-asset-server)
 ### Locally
 ```bash
 git clone https://github.com/Chiroyce1/scratch-asset-api.git
