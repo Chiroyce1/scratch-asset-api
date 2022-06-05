@@ -1,6 +1,17 @@
 # scratch-asset-api
 
-## A recreation of Scratch's assets server, thats it.
+### A recreation of Scratch's assets server, thats it.
+
+## Running
+### Replit
+> https://replit.com/github/Chiroyce1/scratch-asset-api
+### Locally
+```bash
+git clone https://github.com/Chiroyce1/scratch-asset-api.git
+cd scratch-asset-api
+pip3 install -r requirements.txt
+python3 main.py
+```
 
 
 ## Documentation
